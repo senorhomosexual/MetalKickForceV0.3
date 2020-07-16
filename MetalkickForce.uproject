@@ -8,5 +8,11 @@
 			"Name": "Paper2D",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"IOS",
+		"Android",
+		"WindowsNoEditorWin32"
 	]
 }
